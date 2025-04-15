@@ -3,7 +3,7 @@
 This template repository is the starter project for Integrative Project in Information System and Project Methodologies II Final Exam. Written in C#.
 
 ## Instructions
-- This exam is **open book**, and you are allowed to use the internet. However, **you cannot use AI tools or collaborate with others to solve the problems.**
+- This exam is **closed book**, and you are allowed to use your notes only. However, **you cannot use AI tools use internet or collaborate with others to solve the problems.**
 - You must design and implement two **independent game features**, each requiring the integration of **two design patterns**.
 - Clearly explain your **choice of design patterns** and how they interact within the game.
 - Submit your **source code** along with a **short documentation** describing the design choices and implementation details.
